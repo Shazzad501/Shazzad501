@@ -1,52 +1,68 @@
-![logo](https://github.com/Shazzad501/Shazzad501/blob/main/me2.jpg)
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 
-## 🚀 About Me
-I'm a passionate Web Developer with experience in building scalable and efficient web applications. Currently, I'm exploring **Next.js** and working on a **Tourism Website**.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mehmud!;" />
+</h1>
+<h3 align="center" >A passionate frontend developer from Bangladesh</h3>
+<br/>
+<div align="center">
+     <h3 align="center">💻What I Do?💻</h3>
+<h4 align="center">
+ 🚀 Hey there! I'm a MERN stack developer, which means I'm into creating cool websites and apps. I'm like a tech chef, using MongoDB, Express.js, React.js, and Node.js to make everything work smoothly.Always learning and staying updated on the latest tech trends.🚀
+</h4>
+</div>
 
-## 🔭 Current Activities
-- 🌱 I’m currently learning **Next.js**
-- 🚀 Working on a **Tourism Website**
-- 💬 Ask me about **MERN Stack Development**
+<br/>
+<hr/>
 
-## 🛠️ Skills
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQHiTrnCOeJL8A/article-cover_image-shrink_720_1280/0/1628287501471?e=2147483647&v=beta&t=VV-s2SLRSBjhmBU3swkn3Y2x3Y_h8Qme5PqSC0GQBzQ">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 I’m currently working on **something unique projects😎😎**
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-maruf-162799255/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shazzad501)
+- 🌱 I’m currently learning **React , Node , Express , Firebase , MongoDB**
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+- 💬 Ask me about **anything ,,,but no personal..lol😜😜**
 
-## 📌 Pinned Repositories
-- [Micro Task & Earning](https://github.com/Shazzad501/micro-task-earning-client) - **[Live Project](https://multi-task-earning.web.app/)**
-- [Service Recomender](https://github.com/Shazzad501/Service-web-client) - **[Live Project](https://service-review-5ac25.web.app/)**
-- [Movie Provider](https://github.com/Shazzad501/movie-web-client) - **[Live Project](https://movie-lover-a62ea.web.app/)**
+- 📫 How to reach me **timehmud121@gmail.com**
 
-## 📂 Repository Guidelines
-For each pinned repository, the `README.md` includes:
-- 🔹 Project Overview
-- 📸 Screenshot (if available)
-- 🛠️ Technologies Used
-- 🚀 Features
-- 📦 Dependencies
-- 🛠️ Setup Guide
-- 🔗 Live Project Links
+<h3 align="left">📱 Connect with me 📱</h3>
+<p align="left">
+<a href="https://twitter.com/mehmud_ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmud_ti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah al mehmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al mehmud" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/abduĺlah al mehmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a>
+<a href="https://fb.com/abduĺlah al mehmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a>
+<a href="https://instagram.com/abduĺlah al mehmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a>
+</p>
+<br/>
+<br/>
+<br/>
+ <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,react,express,firebase,mongodb,vscode,c&theme=dark" />  <br/>
+     <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,redux,postman&theme=dark" />
+    
+</p>
 
----
+ <br/>
 
-🌟 _Feel free to check out my repositories and connect with me!_ 😊
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=abdullah-al-mehmud&theme=dark&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=abdullah-al-mehmud&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdullah-al-mehmud&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
