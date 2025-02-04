@@ -1,7 +1,7 @@
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
+![logo](https://github.com/Shazzad501/Shazzad501/blob/main/me2.jpg)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shazzad+Maruf!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shazzad_Maruf!;" />
 </h1>
 <h3 align="center" >A passionate frontend developer from Bangladesh</h3>
 <br/>
