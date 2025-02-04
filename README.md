@@ -31,9 +31,7 @@
 <p align="left">
 <a href="https://x.com/SMaruf3950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SMaruf3950" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-maruf-162799255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-maruf-162799255" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/abduĺlah al mehmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a> -->
 <a href="https://www.facebook.com/profile.php?id=100033528620333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/abduĺlah al mehmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abduĺlah al mehmud" height="30" width="40" /></a> -->
 </p>
 <br/>
 <br/>
