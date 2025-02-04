@@ -27,7 +27,7 @@ I'm a passionate **[Web Developer]** with experience in building scalable and ef
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)][(https://www.linkedin.com/in/md-maruf-162799255/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-maruf-162799255/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shazzad501)
 
 ## 📊 GitHub Stats
