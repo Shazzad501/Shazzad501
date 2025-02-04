@@ -21,9 +21,9 @@
 
 - 🔭 I’m currently working on **something unique projects😎😎**
 
-- 🌱 I’m currently learning **React , Node , Express , Firebase , MongoDB**
+- 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **anything ,,,but no personal..lol😜😜**
+- 🎲 Fun fact **I like video game**
 
 - 📫 How to reach me **assazzad501@gmail.com**
 
