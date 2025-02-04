@@ -1,5 +1,3 @@
-# Hi there, I'm [Mohammed Shazzad Hossain Maruf] 👋
-
 ![logo](https://github.com/Shazzad501/Shazzad501/blob/main/me2.jpg)
 
 ## 🚀 About Me
