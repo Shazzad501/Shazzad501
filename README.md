@@ -1,7 +1,7 @@
 ![logo](https://github.com/Shazzad501/Shazzad501/blob/main/me2.jpg)
 
 ## 🚀 About Me
-I'm a passionate **[Web Developer]** with experience in building scalable and efficient web applications. Currently, I'm exploring **Next.js** and working on a **Tourism Website**.
+I'm a passionate Web Developer with experience in building scalable and efficient web applications. Currently, I'm exploring **Next.js** and working on a **Tourism Website**.
 
 ## 🔭 Current Activities
 - 🌱 I’m currently learning **Next.js**
